@@ -1,0 +1,3 @@
+languagetool.shubhamtatvamasi.com {
+	reverse_proxy languagetool:8010
+}
